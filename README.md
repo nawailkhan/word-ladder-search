@@ -1,4 +1,4 @@
-# :earth_americas: GDP dashboard template
+# :earth_americas: Word Ladder Search Algorithms
 
 A simple Streamlit app showing the GDP of different countries in the world.
 

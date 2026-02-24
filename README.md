@@ -1,6 +1,8 @@
 # :earth_americas: Word Ladder Search Algorithms
 
-A simple Streamlit app showing the GDP of different countries in the world.
+Classical word ladder problems transform one word into another using discrete character substitutions. In this assignment, the problem is generalized to operate in a continuous semantic embedding space using pretrained GloVe word vectors.
+Each word in the vocabulary is represented as a 100-dimensional vector in semantic space. The objective is to search for a sequence of semantically related words that transforms a start word into a goal word using classical AI search algorithms.
+
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
 
